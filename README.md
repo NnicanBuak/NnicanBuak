@@ -16,4 +16,4 @@
 
 **[Tea-Shop](https://github.com/NnicanBuak/Tea-Shop)** — фронтенд интернет-магазина чая. Реализовал страницы каталога и товаров по готовому дизайну, поиск и фильтрацию; перевёл приложение с Vue на Nuxt 3 с SSR, подключил Supabase и PWA.
 
-**Основной стек:** Vue · Nuxt · JavaScript/TypeScript · HTML · CSS
+**Основной стек:** Vue · Nuxt · JavaScript/TypeScript · HTML/CSS
