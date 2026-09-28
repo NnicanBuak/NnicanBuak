@@ -1,8 +1,6 @@
 <div align="center">
 
-# Илья Путилов
-
-### Frontend-разработчик · Vue / Nuxt
+# Frontend-разработчик · Vue / Nuxt
 
 </div>
 
